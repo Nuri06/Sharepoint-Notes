@@ -1,4 +1,5 @@
-# This document related to SPListItem object. You can find some of helpful powershells or C# codes.
+# This document is related to SPListItem object. You can find some of helpful powershells or C# codes.
+
 ### Check in all files within all webs.
 
 ```powershell
