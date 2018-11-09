@@ -1,6 +1,6 @@
 
 ```powershell
-$rootURL="http://ankara.diyanet.gov.tr"
+$rootURL="sitecollectionUrl"
 
 $site = Get-SPSite $rootURL
 $web = Get-SPWeb $rootURL
